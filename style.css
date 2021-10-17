@@ -1,0 +1,38 @@
+.container-felso {
+    display: flex;
+    width: 700px;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid blue;
+    margin: 10px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .itemblue {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    font-size: 20px;
+    margin: 10px;
+  }
+
+  .container-also {
+    display: flex;
+    width: 700px;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid blue;
+    background-color: orangered;
+    margin: 10px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .itempurple {
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+    font-size: 20px;
+    margin: 10px;
+  }
